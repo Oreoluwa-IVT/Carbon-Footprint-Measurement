@@ -21,3 +21,15 @@ Using Carbon Emission Data in one square km, we could rougly estimate and develo
 ### This Project !
 In this tinny , mini little repo , I get to read how much carbon is emitted by a Car, using Carbondioxide Sensors and that data is used along with distance travalled 
 and ambient temperature ,then use that data to represent a fleet of cars in that came area. Thereby giving us a rough estimate of how much and how long climate can change. 
+
+
+
+
+
+
+
+### Want to Help ? Get Started !
+First, we need to purchase a few tools for our little project. 
+An ESP8266 NodeMCU module, an MQ9 Sensor and an MQ135 Sensor.
+Once you have that, we'd need to install the Arduino IDE. 
+Use the link below to install the Arduino IDE.
