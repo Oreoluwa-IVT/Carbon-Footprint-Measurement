@@ -40,8 +40,10 @@ Use the link below to download the Arduino IDE.
 ```
 https://www.arduino.cc/en/software
 ```
-
-
+### Add the Link To "Preferences" in The Arduino IDE !
+To get to "Preferences", Select the "File" Tab and Select "Preferences"
+Once that's selected, past the link below into the 
+"Additional Boards Mananger URLs: " textbox.
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
