@@ -40,3 +40,8 @@ Use the link below to download the Arduino IDE.
 ```
 https://www.arduino.cc/en/software
 ```
+
+
+```
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+```
