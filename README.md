@@ -5,8 +5,8 @@ Measuare how much carbon is emitted by a machine , Using a NodeMCU along with C0
 Climate can be different for different seasons, Although we can defined climate as the usual weather of a place. It is normal to have diffent climates. Nevertheless, we have to know what is normal. You're probably thinking, how do we know if the Earth's climate is normal ? To answer this , we have to understand what Climate change is.
 
 ### Climate Change ?
-Climate change is a change in the usual weather found in a place. The changes can be experienced in a number of way. For instance ,increase in the climate's temperature or 
-sudden decrease in how much water or rain a certains geographical location gets. What's more important, is how the change in the earth temeparature affects how we live on it. 
+Climate change is a change in the usual weather found in a place. The changes can be experienced in a number of way. For instance ,the increase in the climate's temperature or 
+sudden decrease in rainfall in a place are notable changes. What's more important, is how the changes in the earth's temeparature, affects how we live on it. 
 The Earth's temeperature has increased by 1 degree celcius in recent years, and it has had striking effects. For instance the increase in temperature has caused Earth Ice to melt  causing see levels to rise. The effects are so much more !
 Just imaging if the ocean levels rise so much , it starts to overflow ? yup ,very bad !
 
