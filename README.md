@@ -2,7 +2,7 @@
 Measuare how much carbon is emitted by a machine , Using a NodeMCU along with C02 sesnsors.
 
 ### What is Climate !
-Climate can be different for different seasons, Although we can defined climate as the usual weather of a place.It is normal to have diffent climates ,nevertheless, we have to know what is normal ? To answer this , we have to understand what Climate change is.
+Climate can be different for different seasons, Although we can defined climate as the usual weather of a place. It is normal to have diffent climates. Nevertheless, we have to know what is normal. You're probably thinking, how do we know if the Earth's climate is normal ? To answer this , we have to understand what Climate change is.
 
 ### Climate Change ?
 Climate change is a change in the usual weather found in a place. The changes can be experienced in a number of way. For instance ,increase in the climate's temperature or 
