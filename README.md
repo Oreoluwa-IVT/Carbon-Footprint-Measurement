@@ -19,8 +19,9 @@ Although, these aren't the only causes to the problem, but this is one way we ca
 Using Carbon Emission Data in one square km, we could rougly estimate and develop useful solution for Carbon emission reduction. 
 
 ### This Project !
-In this tinny , mini little repo , I get to read how much carbon is emitted by a Car, using Carbondioxide Sensors and that data is used along with distance travalled 
-and ambient temperature ,then use that data to represent a fleet of cars in that came area. Thereby giving us a rough estimate of how much and how long climate can change. 
+In this little repo ,we get to see how much carbon can be emitted by an Automobile using Carbondioxide Sensors. The data collected from this project
+is used along with Total distance travalled 
+and ambient temperature. Thereafter we can analyze that data make some reasonable estimates.
 
 
 
