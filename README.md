@@ -21,7 +21,7 @@ Using Carbon Emission Data in one square km, we could rougly estimate and develo
 ### This Project !
 In this little repo ,we get to see how much carbon can be emitted by an Automobile using Carbondioxide Sensors. The data collected from this project
 is used along with Total distance travalled 
-and ambient temperature. Thereafter we can analyze that data make some reasonable estimates.
+and ambient temperature. Thereafter, we can analyze the data to make meaning out of it.
 
 
 
