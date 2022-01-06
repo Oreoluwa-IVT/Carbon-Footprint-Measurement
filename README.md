@@ -1,10 +1,10 @@
 # Carbon-Footprint-Measurement
 Measuare how much carbon is emitted into the atmosphere, using IoT Technology .
 
-### What is Climate !
+### What is Climate ?
 Climate can be different for different seasons, Although we can defined climate as the usual weather of a place. It is normal to have diffent climates. Nevertheless, we have to know what is normal. You're probably thinking, how do we know if the Earth's climate is normal ? To answer this , we have to understand what Climate change is.
 
-### Climate Change ?
+### Climate Change.
 Climate change is a change in the usual weather found in a place. The changes can be experienced in a number of way. For instance ,the increase in the climate's temperature or 
 sudden decrease in rainfall in a place are notable changes. What's more important, is how the changes in the earth's temeparature, affects how we live on it. 
 The Earth's temeperature has increased by 1 degree celcius in recent years, and it has had striking effects. For instance the increase in temperature has caused Earth Ice to melt  causing see levels to rise. The effects are so much more !
