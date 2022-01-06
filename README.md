@@ -1,5 +1,5 @@
 # Carbon-Footprint-Measurement
-Measuare how much carbon is emitted by an object, using a IoT Technology along with a few sensors.
+Measuare how much carbon is emitted into the atmosphere, using IoT Technology .
 
 ### What is Climate !
 Climate can be different for different seasons, Although we can defined climate as the usual weather of a place. It is normal to have diffent climates. Nevertheless, we have to know what is normal. You're probably thinking, how do we know if the Earth's climate is normal ? To answer this , we have to understand what Climate change is.
