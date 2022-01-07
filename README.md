@@ -8,13 +8,13 @@ Climate can be different for different seasons. Although, we can defined climate
 Climate change is a change in the usual weather found in a place. The changes can be experienced in a number of way. For instance ,the increase in the climate's temperature or 
 sudden decrease in rainfall in a place could be a result of climate change.Infact, what's more important, is how changes in the earth's temeparature affects how we live on it. 
 
-The Earth's temeperature has increased by 1 degree celcius in recent years, and it has had striking effects. For instance the increase in temperature has caused Earth Ice to melt  causing see levels to rise. The effects are so much more !
-Just imaging if the ocean levels rise so much , it starts to overflow ? yup ,very bad !
+The Earth's temeperature has increased by 1 degree celcius in recent years, and this has caused major problem in our ecosystem.The increase in temperature has caused Earth Ice to melt  causing see levels to rise, the expected time for plant yield is changing ,causing famine. The effects are so much more !
+Just imaging if the ocean levels rise into cities or human and inhabited. This is flooding at it's peak ! yup ,very bad !
 
 ### What Causes Climate Change ?
-Quite alot of things can cause the process of climate change. From volcanos errupting , to changing proximity of the sun to the earth and most importantly gases being emitteed into the atmosphere.
+Quite alot of things can cause the process of climate change. From volcanos errupting , to changes in the earth's proximity to the sun, even gases being emitted into the atmosphere by vechicles or engines cause Climate Change.
 
-### How Can Help Solve Climate Change ?
+### How Can we Help Sove Climate Change ?
 When more and more gases are emitted into the atmosphere, it causes the air to heat up. which means, more Carbon Emissions , more hot air. 
 Although, these aren't the only causes to the problem, but this is one way we can reduce the effect of climate change.
 Using Carbon Emission Data in one square km, we could rougly estimate and develop useful solution for Carbon emission reduction. 
