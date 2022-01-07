@@ -30,7 +30,7 @@ and ambient temperature. Thereafter, we can analyze the data to make meaning out
 
 
 
-### Want to Help ? Get Started !
+### Getting Started !
 First, we need to purchase a few tools for our little project. 
 An ESP8266 NodeMCU module, an MQ9 Sensor and an MQ135 Sensor.
 Once you have that, we'd need to install the Arduino IDE. 
@@ -42,9 +42,7 @@ Use the link below to download the Arduino IDE.
 https://www.arduino.cc/en/software
 ```
 ### Add the Link To "Preferences" in The Arduino IDE !
-To get to "Preferences", Select the "File" Tab and Select "Preferences"
-Once that's selected, past the link below into the 
-"Additional Boards Mananger URLs: " textbox.
+Open Arduino IDE ----> File ---> Preferences --->Additional Boards Mananger URLs
 
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
