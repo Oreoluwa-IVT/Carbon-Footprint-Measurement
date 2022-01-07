@@ -19,7 +19,7 @@ Although, these aren't the only causes to the problem, but this is one way we ca
 Using Carbon Emission Data in one square km, we could rougly estimate and develop useful solution for Carbon emission reduction. 
 
 ### This Project !
-In this little repo ,we get to see how much carbon can be emitted by an Automobile using Carbondioxide Sensors. The data collected from this project
+In this little repo ,we measure how much Carbondioxide is emitted from a common emittant "Automobiles" using CO2 Sensors. The data collected from this project
 is used along with Total distance travalled 
 and ambient temperature. Thereafter, we can analyze the data to make meaning out of it.
 
@@ -44,6 +44,7 @@ https://www.arduino.cc/en/software
 To get to "Preferences", Select the "File" Tab and Select "Preferences"
 Once that's selected, past the link below into the 
 "Additional Boards Mananger URLs: " textbox.
+
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
