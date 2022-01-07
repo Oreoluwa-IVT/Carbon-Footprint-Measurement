@@ -6,7 +6,7 @@ Climate can be different for different seasons. Although, we can defined climate
 
 ### Climate Change.
 Climate change is a change in the usual weather found in a place. The changes can be experienced in a number of way. For instance ,the increase in the climate's temperature or 
-sudden decrease in rainfall in a place could be a result of climate change. What's more important, is how the changes in the earth's temeparature, affects how we live on it. 
+sudden decrease in rainfall in a place could be a result of climate change.Infact, what's more important, is how changes in the earth's temeparature affects how we live on it. 
 The Earth's temeperature has increased by 1 degree celcius in recent years, and it has had striking effects. For instance the increase in temperature has caused Earth Ice to melt  causing see levels to rise. The effects are so much more !
 Just imaging if the ocean levels rise so much , it starts to overflow ? yup ,very bad !
 
