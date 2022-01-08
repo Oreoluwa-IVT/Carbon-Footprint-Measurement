@@ -1,7 +1,7 @@
 # Carbon-Footprint-Measurement
 Measuare how much carbon is emitted into the atmosphere, using IoT Technology .
 
-<img src="Images/cloud.png" width = 390 height=200>
+<img src="Images/cloud.png" width = 390 height=200> <img src ="Images/cloud2.png" width =390 heigh=200>
 
 ### What is Climate ?
 Climate can be different for different seasons. Although, we can defined climate as the usual weather of a place. It is normal to have different climates. Nevertheless, we have to know what is normal. You're probably thinking, how do we know when the Earth's climate is normal ? To answer this , we have to understand what Climate change is.
