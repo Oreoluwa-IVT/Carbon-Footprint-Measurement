@@ -7,7 +7,7 @@ Measuare how much carbon is emitted into the atmosphere, using IoT Technology .
 Climate can be different for different seasons. Although, we can defined climate as the usual weather of a place. It is normal to have different climates. Nevertheless, we have to know what is normal. You're probably thinking, how do we know when the Earth's climate is normal ? To answer this , we have to understand what Climate change is.
 
 ### Climate Change.
-Climate change is a change in the usual weather found in a place. The changes can be experienced in a number of way. For instance ,the increase in the climate's temperature or 
+Climate change is a change in the usual weather found in a place. The changes can be experienced in a number of ways. For instance ,the increase in the climate's temperature or 
 sudden decrease in rainfall in a place could be a result of climate change.Infact, what's more important, is how changes in the earth's temeparature affects how we live on it. 
 
 The Earth's temeperature has increased by 1 degree celcius in recent years, and this has caused major problem in our ecosystem.The increase in temperature has caused Earth Ice to melt  causing see levels to rise, the expected time for plant yield is changing ,causing famine. The effects are so much more !
