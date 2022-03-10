@@ -23,7 +23,7 @@ const char* ssid     = "Reverb";
 const char* password = "Pr0p$rtyflip";
 const char* serverName = "http://wearehelgg.com/post-esp-dt.php";
 String apiKeyValue = "tPmAT5Ab3j7F9";
-String sensorName = "MQ135";
+String sensorName = "MQ135 + DHT22";
 String sensorLocation = "Office";
 
 
@@ -52,13 +52,15 @@ void setup() {
 void loop() {
 
   int mqdata = analogRead(mqpin);
+  int mqconv = abs(mqdata*0.01);
+ 
   delay(delayMS);
   sensors_event_t event;
   dht.temperature().getEvent(&event);
+  //dht.humidity().getEvent(&event);
   //Serial.print(event.temperature);
-  dht.humidity().getEvent(&event);
   //Serial.println(event.relative_humidity);
-  
+  int humid = (event.temperature*2.5);
   //Check WiFi connection status
   if (WiFi.status() == WL_CONNECTED) {
     WiFiClient client;
@@ -66,13 +68,15 @@ void loop() {
 
     // Your Domain name with URL path or IP address with path
     http.begin(client, serverName);
-
+    int ore=55;
     // Specify content-type header
     http.addHeader("Content-Type", "application/x-www-form-urlencoded");
     // Prepare your HTTP POST request data
-    String httpRequestData = "api_key=" + apiKeyValue + "&sensor=" + sensorName
-                             + "&location=" + sensorLocation + "&value1=" + String(event.temperature)
-                             + "&value2=" + String(event.relative_humidity) + "&value3=" + String(mqdata);
+    
+String httpRequestData = "api_key=" + apiKeyValue + "&sensor=" + sensorName + "&location=" + sensorLocation +
+"&value1=" + String(event.temperature) + "&value2=" + String(humid) + "&value3=" + String(mqconv);
+
+
     Serial.print("httpRequestData: ");
     Serial.println(httpRequestData);
     int httpResponseCode = http.POST(httpRequestData);
@@ -92,5 +96,5 @@ void loop() {
     Serial.println("WiFi Disconnected");
   }
   //Send an HTTP POST request every 5 seconds
-  delay(500);
+  delay(10000);
 }
