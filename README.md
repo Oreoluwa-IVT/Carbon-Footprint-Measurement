@@ -50,7 +50,7 @@ Open Arduino IDE ----> File ---> Preferences --->Additional Boards Mananger URLs
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
-
+#### SQL
 ```SQL
 CREATE TABLE SensorData (
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
