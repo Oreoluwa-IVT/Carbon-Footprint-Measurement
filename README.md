@@ -49,3 +49,16 @@ Open Arduino IDE ----> File ---> Preferences --->Additional Boards Mananger URLs
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
+
+
+```SQL
+CREATE TABLE SensorData (
+    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    sensor1 VARCHAR(30) NOT NULL,
+    location VARCHAR(30) NOT NULL,
+    value1 VARCHAR(10),
+    value2 VARCHAR(10),
+    value3 VARCHAR(10),
+    reading_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+)
+```
