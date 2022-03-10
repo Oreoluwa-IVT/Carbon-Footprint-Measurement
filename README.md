@@ -52,7 +52,7 @@ Open Arduino IDE ----> File ---> Preferences --->Additional Boards Mananger URLs
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
-## Prerequisites PHP , MQSQL , C , HTML , CSS
+## Prerequisite PHP , MQSQL , C , HTML , CSS
 As you Naviagate your way through this repository, you have to be familiar with Languages listed above.
 
 #### SQL
