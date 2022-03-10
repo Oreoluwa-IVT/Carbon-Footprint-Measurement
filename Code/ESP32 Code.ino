@@ -95,6 +95,6 @@ String httpRequestData = "api_key=" + apiKeyValue + "&sensor=" + sensorName + "&
   else {
     Serial.println("WiFi Disconnected");
   }
-  //Send an HTTP POST request every 5 seconds
+  //Send an HTTP POST request every 10 seconds
   delay(10000);
 }
