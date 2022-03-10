@@ -32,11 +32,14 @@ and ambient temperature. Thereafter, we can analyze the data to make meaning out
 
 
 
-### Getting Started !
+# Getting Started !
+
+
 First, we need to purchase a few tools for our little project. 
 An ESP8266 NodeMCU module, an MQ9 Sensor and an MQ135 Sensor.
 Once you have that, we'd need to install the Arduino IDE. 
 Use the link below to download the Arduino IDE.
+
 
 
 
@@ -49,6 +52,8 @@ Open Arduino IDE ----> File ---> Preferences --->Additional Boards Mananger URLs
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
+## Prerequisites PHP , MQSQL , C , HTML , CSS
+As you Naviagate your way through this repository, you have to be familiar with Languages listed above.
 
 #### SQL
 ```SQL
