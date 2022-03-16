@@ -64,6 +64,7 @@ CREATE TABLE SensorData (
     value1 VARCHAR(10),
     value2 VARCHAR(10),
     value3 VARCHAR(10),
+    value4 VARCHAR(10),
     reading_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 )
 ```
