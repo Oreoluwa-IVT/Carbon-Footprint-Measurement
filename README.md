@@ -1,4 +1,4 @@
-# Carbon-Footprint-Measurement
+# Monitoring Carbon Footprint
 Measuare how much carbon is emitted into the atmosphere, using IoT Technology .
 
 <img src="Images/cloud.png" width = 290 height=190> <img src ="Images/cloud2.png" width =300 heigh=190>
@@ -52,7 +52,7 @@ Open Arduino IDE ----> File ---> Preferences --->Additional Boards Mananger URLs
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
-## Prerequisites PHP , MQSQL , C , HTML , CSS
+## Prerequisite PHP , MQSQL , C , HTML , CSS
 As you Naviagate your way through this repository, you have to be familiar with Languages listed above.
 
 #### SQL
@@ -64,6 +64,7 @@ CREATE TABLE SensorData (
     value1 VARCHAR(10),
     value2 VARCHAR(10),
     value3 VARCHAR(10),
+    value4 VARCHAR(10),
     reading_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 )
 ```
