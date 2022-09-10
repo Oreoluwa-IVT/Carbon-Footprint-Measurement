@@ -1,5 +1,5 @@
 # Monitoring Carbon Footprint
-Measuare how much carbon is emitted into the atmosphere, using IoT Technology .
+Measuare and visualize carbon emissions, using IoT Technology .
 
 <img src="Images/cloud.png" width = 290 height=190> <img src ="Images/cloud2.png" width =300 heigh=190>
 
@@ -69,4 +69,4 @@ CREATE TABLE SensorData (
 )
 ```
 #### Product Details
-See Schematic , PCB Design and Bill of Materials Below
+See Breadboarding, Schematic , PCB Design and Bill of Materials Below
