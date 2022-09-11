@@ -27,8 +27,8 @@ is used along with Total distance travalled
 and ambient temperature. Thereafter, we can analyze the data to make meaning out of it.
 
 
-## Prerequisite PHP , MQSQL , C , HTML , CSS
-As you Naviagate your way through this repository, you have to be familiar with Languages listed above.
+## Prerequisite 
+As you Naviagate through this repository, you should be familiar with PHP , MQSQL , C , HTML ,CSS and Thingspeak.
 
 #### SQL
 ```SQL
@@ -44,7 +44,7 @@ CREATE TABLE SensorData (
 )
 ```
 
-# Getting Started !
+## Getting Started !
 
 
 - [ ] Purchase thr ESP32/8266/NodeMCU module,MQ9, MQ3, MQ7,MQ135 Sensor, Hi-Link Module (220 to 5v DC).
