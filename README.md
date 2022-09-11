@@ -47,7 +47,7 @@ CREATE TABLE SensorData (
 # Getting Started !
 
 
-- [ ] Purchase thr ESP32/8266/NodeMCU module,MQ9 Sensor , MQ3, MQ7,MQ135 Sensor Hi-Link Module (220 to 5v DC).
+- [ ] Purchase thr ESP32/8266/NodeMCU module,MQ9, MQ3, MQ7,MQ135 Sensor, Hi-Link Module (220 to 5v DC).
 - [ ] Install the Arduino IDE - Use the link below to download the Arduino IDE.
 
 ```
@@ -60,12 +60,12 @@ Open Arduino IDE ----> File ---> Preferences --->Additional Boards Mananger URLs
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
-#### Product Desgin Details
+## Product Desgin Details
 See Breadboarding, Schematic , PCB Design and Bill of Materials Below
 
 
-### Breadboarding
-See breadboarding in the figure below. The ESP32 was not connected to it's default powersource , with is a usb mini. 
+## Breadboarding
+See breadboarding in the figure below. The ESP32 was not connected to it's default powersource (usb mini). 
 We assume the esp is powered with a voltage "VIN" pin directly from the Hi-Link module. Because unfortunately the esp32 
 is not built with a VIN pin unlike the nodeMCU.
 
