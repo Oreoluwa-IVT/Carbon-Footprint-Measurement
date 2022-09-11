@@ -47,7 +47,7 @@ CREATE TABLE SensorData (
 ## Getting Started !
 
 
-- [ ] Purchase thr ESP32/8266/NodeMCU module,MQ9, MQ3, MQ7,MQ135 Sensor, Hi-Link Module (220 to 5v DC).
+- [ ] Purchase the ESP32/8266/NodeMCU module,MQ9, MQ3, MQ7,MQ135 Sensor, Hi-Link Module (220 to 5v DC).
 - [ ] Install the Arduino IDE - Use the link below to download the Arduino IDE.
 
 ```
