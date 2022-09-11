@@ -68,7 +68,7 @@ CREATE TABLE SensorData (
     reading_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 )
 ```
-#### Product Details
+#### Product Desgin Details
 See Breadboarding, Schematic , PCB Design and Bill of Materials Below
 
 
