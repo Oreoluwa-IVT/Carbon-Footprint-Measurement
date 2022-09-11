@@ -72,7 +72,7 @@ CREATE TABLE SensorData (
 See Breadboarding, Schematic , PCB Design and Bill of Materials Below
 
 
-#### Breadboarding
+### Breadboarding
 See breadboarding in the figure below. The ESP32 was not connected to it's default powersource , with is a usb mini. 
 We assume the esp is powered with a voltage "VIN" pin directly from the Hi-Link module. Because unfortunately the esp32 
 is not built with a VIN pin unlike the nodeMCU.
