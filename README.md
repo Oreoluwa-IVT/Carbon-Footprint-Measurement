@@ -35,10 +35,9 @@ and ambient temperature. Thereafter, we can analyze the data to make meaning out
 # Getting Started !
 
 
-First, we need to purchase a few tools for our little project. 
-An ESP8266 NodeMCU module, an MQ9 Sensor and an MQ135 Sensor.
-Once you have that, we'd need to install the Arduino IDE. 
-Use the link below to download the Arduino IDE.
+1 First, we need to purchase the following. 
+An ESP32/8266/NodeMCU module,MQ9 Sensor , MQ3, MQ7,MQ135 Sensor Hi-Link Module (220 to 5v DC).
+2 Install the Arduino IDE - Use the link below to download the Arduino IDE.
 
 
 
